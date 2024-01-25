@@ -1,2 +1,2 @@
-# MoteOS
-MoteOS for OpenComputers minecraft mod
+# Install
+`pastebin run ZEXKghTE`
